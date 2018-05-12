@@ -1,0 +1,20 @@
+_repo: '-------------2--13---------------------------_36622'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: Arabian Nights, Vol. 2
+gutenberg_issued: '2011-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36622'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Tales -- Arab countries'
+- !lcc 'PJ'
+title: "Χαλιμά, Τόμος 2\r\nΕξακολούθησις των ιστοριών"
+url: http://www.gutenberg.org/ebooks/36622
