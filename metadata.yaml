@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: Arabian Nights, Vol. 2
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36622#-------------2--13---------------------------
 gutenberg_issued: '2011-07-05'
 gutenberg_type: Text
 identifiers:
